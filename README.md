@@ -43,7 +43,7 @@ A modern and responsive E-Commerce website for Furniture and Interior Design, bu
 <img width="1846" height="918" alt="Screenshot 2026-02-25 105146" src="https://github.com/user-attachments/assets/4e0b1278-64d8-45c1-aaa2-ec8ceec64719" />
 
 ### 👤 About Page
-<img width="1851" height="911" alt="Screenshot 2026-02-25 105204" src="https://github.com/user-attachments/assets/0f3f2e51-7a96-4d4c-ab48-17a909dafec0" />
+<img width="1833" height="647" alt="Screenshot 2026-02-25 105204" src="https://github.com/user-attachments/assets/38fdd72b-7d35-46a4-b3f3-05633ff69167" />
 <img width="1845" height="636" alt="Screenshot 2026-02-25 105220" src="https://github.com/user-attachments/assets/c3727d11-8d25-4d3c-8cb8-836c8876e4cb" />
 
 ---
