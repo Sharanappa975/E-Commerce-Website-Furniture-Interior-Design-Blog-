@@ -1,4 +1,4 @@
-<img width="1785" height="913" alt="Screenshot 2026-02-25 105009" src="https://github.com/user-attachments/assets/a1bad324-f43b-4b1f-ac52-301489456fce" /># 🛒 E-Commerce Website – Furniture & Interior Design Blog
+# 🛒 E-Commerce Website – Furniture & Interior Design Blog
 
 A modern and responsive E-Commerce website for Furniture and Interior Design, built using HTML, CSS, JavaScript, and Python backend.
 
